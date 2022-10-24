@@ -11,7 +11,7 @@ We saw __shortfalls in current approaches__ for building database systems:
 &nbsp;
 
 # Instant, Full System Automation, Leverage Existing Tools
-So, we created API Logic Server: with a single command, create executable / customizable database projects, providing an Admin App, an API, and spreadsheet like rules for business logic.
+So, we created API Logic Server: with a single command, create __executable / customizable database projects__, providing an __Admin App__, an __API__, and __spreadsheet-like rules__ for business logic.
 
 API Logic Server is an __open source__ Python project: a __CLI__ for project creation, and a set of __execution runtimes.__  Install with a standard Python (`pip`) install or Docker.<br/><br/>
 
