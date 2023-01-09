@@ -1,5 +1,19 @@
 # .github
 
+# Getting Started
+
+API Logic Server can make it easier and faster to create database web applications.  It provides a CLI to create customizable projects with a single command, that you can then customize in your IDE.  Projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity.
+
+Some project background is provided below.
+
+You can use this in 2 ways:
+
+* __Create a Project:__ [click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project
+    * [Preview Version Here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=580569201)
+* __Explore a Project:__ [click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=586619804) to open codespaces to see a created project, and "quick access" table that illustrates key concepts for Flask and SQLAlchemy, both for an API Logic Server Project, and a manually coded project.
+
+&nbsp;
+
 # Why: Partial Automation, Proprietary IDEs
 
 We saw __shortfalls in current approaches__ for building database systems:
