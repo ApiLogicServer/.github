@@ -2,9 +2,7 @@
 
 # Getting Started
 
-API Logic Server can make it easier and faster to create database web applications.  It provides a CLI to create customizable projects with a single command, that you can then customize in your IDE.  Projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity.
-
-Some project background is provided below.
+API Logic Server can make it easier and faster to create database web applications.  It provides a CLI to create customizable projects with a single command, that you can then customize in your IDE.  Projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity.  Some project background is provided in the next section, below.
 
 You can use this in 2 ways:
 
@@ -13,6 +11,9 @@ You can use this in 2 ways:
 
 * __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=586619804) to open codespaces to see a created project, and "quick access" table that illustrates key concepts for Flask and SQLAlchemy.
     * These concepts apply to both an API Logic Server Project, and a manually coded project -- you can explore both.
+
+
+Extensive [documentation is available here](https://valhuber.github.io/ApiLogicServer/) - checkout the [FAQs](https://valhuber.github.io/ApiLogicServer/FAQ-Frameworks/).
 
 &nbsp;
 
@@ -55,6 +56,4 @@ Declare business logic with spreadsheet-like rules (40x more concise than code),
 
 &nbsp;
 
-# Exploration Guide
 
-Extensive [documentation is available here](https://valhuber.github.io/ApiLogicServer/) - checkout the [FAQs](https://valhuber.github.io/ApiLogicServer/FAQ-Frameworks/).
