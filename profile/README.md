@@ -8,9 +8,10 @@ Some project background is provided below.
 
 You can use this in 2 ways:
 
-* __Create a Project:__ [click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project
-    * [Preview Version Here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=580569201)
-* __Explore a Project:__ [click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=586619804) to open codespaces to see a created project, and "quick access" table that illustrates key concepts for Flask and SQLAlchemy, both for an API Logic Server Project, and a manually coded project.
+* __Create a Project:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project
+    * You can also open a [preview version here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=580569201)
+* __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=586619804) to open codespaces to see a created project, and "quick access" table that illustrates key concepts for Flask and SQLAlchemy.
+    * These concepts apply to both an API Logic Server Project, and a manually coded project -- you can explore both.
 
 &nbsp;
 
