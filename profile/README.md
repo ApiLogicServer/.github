@@ -10,7 +10,7 @@ Extensive [documentation is available here](https://valhuber.github.io/ApiLogicS
 
 You can use this page in 2 ways:
 
-* __Create a Project:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project.  (You can also open a [preview](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=580569201)).
+* __Create a Project:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project ([preview](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=580569201) here).
 
 * __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=586619804) to open codespaces to see a created project, and "quick access" table that illustrates key concepts for Flask and SQLAlchemy.
     * These concepts apply to both an API Logic Server Project, and a manually coded project -- you can explore both.
