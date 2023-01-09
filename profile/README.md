@@ -2,7 +2,7 @@
 
 # Getting Started
 
-API Logic Server can make it easier and faster to create database web applications.  It provides a CLI to create customizable projects with a single command, that you can then customize in your IDE.  Projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity.  Some project background is provided in the next section, below.
+API Logic Server is an open source Python project to make it faster and easier to create database web applications.  It provides a CLI to create customizable projects with a single command, that you can then customize in your IDE.  Projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity.  Some project background is provided in the next section, below.
 
 You can use this in 2 ways:
 
