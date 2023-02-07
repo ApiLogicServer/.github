@@ -6,7 +6,7 @@ API Logic Server is an open source Python project to make it faster and easier t
 
 Created projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity. They can be containerized to simplify deployment. 
 
-Additional background is provided in the next section, below.  Extensive [documentation is available here](Docs) - checkout the [FAQs](https://valhuber.github.io/ApiLogicServer/FAQ-Frameworks/).
+Additional background is provided in the next section, below.  Extensive [documentation is available here]([Docs](https://apilogicserver.github.io/Docs/) - checkout the [FAQs](https://valhuber.github.io/ApiLogicServer/FAQ-Frameworks/).
 
 You can use this page in 2 ways:
 
