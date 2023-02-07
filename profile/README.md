@@ -10,7 +10,8 @@ Additional background is provided in the next section, below.  Extensive [docume
 
 You can use this page in 2 ways:
 
-* __Tutorial:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) to open codespaces to see a created project, and "quick access" table that illustrates key concepts for Flask and SQLAlchemy.
+* __Tutorial:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) to open codespaces to see a created project.
+    * Includes the **Learning Center:**, a "quick access" table that illustrates key concepts for Flask and SQLAlchemy.
     * These concepts apply to both an API Logic Server Project, and a manually coded project -- you can explore both.
 
 * __Create a Project:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project ([preview](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=580569201) here).
