@@ -8,11 +8,11 @@ Created projects provide an API, an Admin Web App, and spreadsheet-like business
 
 Additional background is provided in the next section, below.  Extensive [documentation is available here](https://apilogicserver.github.io/Docs/) - checkout the [FAQs]([https://valhuber.github.io/ApiLogicServer/FAQ-Frameworks/](https://apilogicserver.github.io/Docs/FAQ-Low-Code/)).
 
-You can use this page in 2 ways:
+You can use this page in several ways:
 
 * __Tutorial:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) to open codespaces to see a created project.
 
-* __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=641207071} to learn key concepts of JSON:API, Flask and SQLAlchemy
+* __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=641207071) to learn key concepts of JSON:API, Flask and SQLAlchemy
 
 * __Create a Project:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526240678) to open codespaces with instructions for creating and exploring the sample project.
 
