@@ -12,7 +12,7 @@ You can use this page in several ways:
 
 * __Tutorial:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) to open codespaces to see a created project, explore it, and learn how to create it
 
-* __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=641207071) to learn key concepts of JSON:API, Flask and SQLAlchemy
+* __Learning Center:__ [Click here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=641207071) to use an _API Fiddle_ to learn key concepts of JSON:API, Flask and SQLAlchemy
 
 &nbsp;
 
