@@ -8,6 +8,7 @@ This is the **development site** for API Logic Server.  This is used by the **de
 :-------|:------------|:-----------------|
 | [User Documentation](https://apilogicserver.github.io/Docs/) | **Users** | Creating projects |
 | [Tutorial](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) | **Users**  | No-install eval, using Codespaces |
+| [demo](https://github.com/ApiLogicServer/demo) | **Users** | Review a Sample Project (try Shift + "." |
 | &nbsp; | | |
 | [SQLAlchemy](https://docs.sqlalchemy.org/en/20/) | All | ORM |
 | [SAFRS](https://github.com/thomaxxl/safrs/wiki) | All | API |
