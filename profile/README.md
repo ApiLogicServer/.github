@@ -1,7 +1,19 @@
 # .github
 
-# Getting Started
+# About
 
+This is the **development site** for API Logic Server.  This is used by the **development team**; the first link below is intended for users.
+
+|   | Site    | For   | Notes   |
+:-------|:-----------|:------------|:-----------------|
+| [User Documentation](https://apilogicserver.github.io/Docs/) | **Users:** creating projects |  |
+| [Tutorial](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) | **Users:** no-install eval | |
+| [Docs](https://github.com/ApiLogicServer/Docs) | Developers - doc source | mkdocs |
+| [Source](https://github.com/ApiLogicServer/ApiLogicServer-src) | Developers - project source |   |
+
+&nbsp;
+
+# What is API Logic Server
 API Logic Server is an open source Python project to make it faster and easier to create __database web applications.__  It provides a CLI to create customizable projects with a single command, that you can then run / customize / debug in your IDE.  
 
 Created projects provide an API, an Admin Web App, and spreadsheet-like business rules to enforce database integrity. They can be containerized to simplify deployment. 
