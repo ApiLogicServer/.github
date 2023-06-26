@@ -6,10 +6,10 @@ This is the **development site** for API Logic Server.  This is used by the **de
 
 |   Site    | For   | Notes   |
 :-------|:------------|:-----------------|
-| [User Documentation](https://apilogicserver.github.io/Docs/) | **Users:** creating projects |  |
+| [User Documentation](https://apilogicserver.github.io/Docs/) | **Users** | Creating projects |
 | [Tutorial](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) | **Users:** no-install eval | |
-| [Source](https://github.com/ApiLogicServer/ApiLogicServer-src) | Developers - project source | [Dev Install - source and docs](https://apilogicserver.github.io/Docs/Architecture-Internals/)  |
-| [Docs](https://github.com/ApiLogicServer/Docs) | Developers - doc source | mkdocs |
+| [API Logic Server Source](https://github.com/ApiLogicServer/ApiLogicServer-src) | Developers | [Dev Install - source and docs](https://apilogicserver.github.io/Docs/Architecture-Internals/)  |
+| [Docs Source ](https://github.com/ApiLogicServer/Docs) | Developers | Uses mkdocs |
 
 &nbsp;
 
