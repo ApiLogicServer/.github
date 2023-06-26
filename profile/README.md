@@ -4,8 +4,8 @@
 
 This is the **development site** for API Logic Server.  This is used by the **development team**; the first link below is intended for users.
 
-|   | Site    | For   | Notes   |
-:-------|:-----------|:------------|:-----------------|
+|   Site    | For   | Notes   |
+:-------|:------------|:-----------------|
 | [User Documentation](https://apilogicserver.github.io/Docs/) | **Users:** creating projects |  |
 | [Tutorial](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=593459232) | **Users:** no-install eval | |
 | [Source](https://github.com/ApiLogicServer/ApiLogicServer-src) | Developers - project source | [Dev Install - source and docs](https://apilogicserver.github.io/Docs/Architecture-Internals/)  |
