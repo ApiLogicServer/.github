@@ -19,6 +19,8 @@ This is the **development site** for API Logic Server.  This is used by the **de
 | &nbsp; | | |
 | [API Logic Server Source](https://github.com/ApiLogicServer/ApiLogicServer-src) | Developers | [Dev Install - source and docs](https://apilogicserver.github.io/Docs/Architecture-Internals/)  |
 | [Docs Source ](https://github.com/ApiLogicServer/Docs) | Developers | Uses mkdocs |
+| &nbsp; | | |
+| [Donate](https://www.paypal.com/donate/?hosted_button_id=YRVDR6Q59AT5G) | Support for WebGenAI & GenAI Logic||
 
 &nbsp;
 
