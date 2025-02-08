@@ -7,7 +7,7 @@ This is the **development site** for API Logic Server.  This is used by the **de
 |   Site    | For   | Notes   |
 :-------|:------------|:-----------------|
 | [User Documentation](https://apilogicserver.github.io/Docs/) | **Users** | Creating projects |
-| [demo](https://github.com/ApiLogicServer/genai_demo) | **Users** | Review a Sample Project (try Shift + ".") |
+| [demo](https://github.com/ApiLogicServer/genai_demo) | **Users** | Review a Sample Project from the [homepage](https://www.genai-logic.com/) (try Shift + ".") |
 | &nbsp; | | |
 | [MySQL creation and deployment](https://github.com/ApiLogicServer/docker-compose-mysql-classicmodels) | **Users** | **Creating and deploying MySQL** example with docker and docker-compose |
 | [Postgres deployment](https://github.com/ApiLogicServer/docker-compose-nw-postgres) | **Users** | **Deploying existing Postgres** example with docker and docker-compose |
