@@ -2,7 +2,7 @@
 
 # About
 
-This is the **development site** for API Logic Server.  This is used by the **development team**; the first link below is intended for users.
+This is the **development site** for API Logic Server.  This is used by the **development team**; the first several links below is intended for users.
 
 |   Site    | For   | Notes   |
 :-------|:------------|:-----------------|
