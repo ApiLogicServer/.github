@@ -6,6 +6,7 @@ This is the **development site** for API Logic Server.  This is used by the **de
 
 |   Site    | For   | Notes   |
 :-------|:------------|:-----------------|
+| [No-Install demo](https://github.com/ApiLogicServer/codespaces_mgr) | Users | Follow directions for using CodeSpaces |
 | [User Documentation](https://apilogicserver.github.io/Docs/) | **Users** | Creating projects |
 | [demo](https://github.com/ApiLogicServer/basic_demo) | **Users** | Review a Sample Project from the [homepage](https://www.genai-logic.com/) (try Shift + ".") |
 | &nbsp; | | |
